@@ -66,7 +66,9 @@ const Navbar = () => {
               {link.label}
             </a>
           ))}
-          <Button>Get in Touch</Button>
+          <a href="/#contact">
+            <Button>Get in Touch</Button>
+          </a>
         </nav>
 
         {/* Mobile Menu Toggle */}

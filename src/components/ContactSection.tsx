@@ -109,10 +109,10 @@ const ContactSection = () => {
     "9:00 AM",
     "10:00 AM",
     "11:00 AM",
-    "1:00 PM",
-    "2:00 PM",
+    "12:00 AM",
     "3:00 PM",
     "4:00 PM",
+    "5:00 PM",
   ];
 
   const contactInfo = [
@@ -131,7 +131,7 @@ const ContactSection = () => {
     {
       icon: <MapPin className="h-6 w-6 text-primary" />,
       title: "Location",
-      value: "San Francisco, CA",
+      value: "Rajshahi, Bangladesh",
     },
     {
       icon: <Clock className="h-6 w-6 text-primary" />,

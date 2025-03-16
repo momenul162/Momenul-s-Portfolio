@@ -10,16 +10,16 @@ const HeroSection = () => {
           <div className="flex flex-col space-y-6 animate-fade-in">
             <div className="inline-block">
               <span className="px-4 py-2 rounded-full bg-primary/10 text-primary text-sm font-medium">
-                Full Stack Developer
+                Web Developer
               </span>
             </div>
-            <h2 className="sr-only">Full Stack Developer | Portfolio of Md Momenul Islam</h2>
+            <h2 className="sr-only">Frontend Developer | Portfolio of Md Momenul Islam</h2>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
               Hi, I'm <span className="gradient-text">Md Momenul Islam</span>
               <br />I build things for the web
             </h1>
             <p className="text-lg text-muted-foreground max-w-lg">
-              I'm a passionate full-stack developer specializing in creating exceptional digital
+              I'm a passionate web developer specializing in creating exceptional digital
               experiences that are fast, accessible, and visually appealing.
             </p>
             <div className="flex flex-wrap gap-4 pt-4">
